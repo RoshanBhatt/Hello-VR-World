@@ -15,3 +15,4 @@ Drag the prefab **GVRViewerMain** into the scene.
 You will also need to add a normal camera in the location you want to view from.
 **Deactivate** the VR Camera system we made and click run. You will be able to use **Google VR**.
 
+####Hope you all like my first app! 
